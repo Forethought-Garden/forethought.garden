@@ -30,7 +30,7 @@ collections:
           - { label: "Blog Posting", value: "https://schema.org/BlogPosting"}
           - { label: "News Article", value: "https://schema.org/NewsArticle"}
           - { label: "Tech Article", value: "https://schema.org/TechArticle"}
-        default: ["https://schema.org/BlogPosting"]
+        default: "https://schema.org/BlogPosting"
   - name: "pages"
     label: "Pages"
     label_singular: "Page"
@@ -54,4 +54,4 @@ collections:
           - { label: "Blog Posting", value: "https://schema.org/BlogPosting"}
           - { label: "News Article", value: "https://schema.org/NewsArticle"}
           - { label: "Tech Article", value: "https://schema.org/TechArticle"}
-        default: ["https://schema.org/BlogPosting"]
+        default: "https://schema.org/Article"
