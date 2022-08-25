@@ -7,3 +7,5 @@ pagetype: https://schema.org/WebPage
 itemtype: https://schema.org/BlogPosting
 ---
 This is the first post to make sure everything is working as expected.
+
+![Kanye West](/uploads/227-2279480_kanye-west-head.png "The Title")
