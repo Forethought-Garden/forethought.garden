@@ -1,0 +1,19 @@
+{
+  "name": "forethought.garden",
+  "version": "0.1.0",
+  "description": "Forethought Garden Website",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forethought-Garden/forethought.garden.git"
+  },
+  "author": "Andrew Shell <andrew@andrewshell.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Forethought-Garden/forethought.garden/issues"
+  },
+  "homepage": "https://github.com/Forethought-Garden/forethought.garden#readme"
+}
